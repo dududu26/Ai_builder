@@ -33,9 +33,9 @@ nano .env
 npm start
 ```
 
-Server akan jalan di `http://0.0.0.0:3000`
+Server akan jalan di `http://0.0.0.0:3009`
 
-Buka browser di Android → `http://localhost:3000`
+Buka browser di Android → `http://localhost:3009`
 
 ## Catatan
 
